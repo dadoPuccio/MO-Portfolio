@@ -70,7 +70,7 @@ The full list of parameters is available in `parser_management.py`, containing a
 An example usage is:
 ```
 python main.py --single_point_methods NS --NS_local_opt MOIHT --max_t_p1 2 --max_t_p2 2 \
-               --prob_path datasets/TOY1 --objectives Variance Mean  --s 5 \
+               --prob_path datasets/TOY1 --objectives Variance Mean  --s 2 \
                --plot_pareto_front --general_export --export_pareto_solutions
 ```
 
