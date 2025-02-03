@@ -10,13 +10,20 @@
 
 Implementation of the Multi-Objective methodologies for advanced portoflio optimization presented in
 
-[Annunziata A. and Lapucci M. and Mansueto P. and Pucci D. - On the Computation of the Efficient Frontier in Advanced Portfolio Optimization]()
+[Annunziata A. and Lapucci M. and Mansueto P. and Pucci D. - On the Computation of the Efficient Frontier in Advanced Portfolio Optimization](
+https://doi.org/10.48550/arXiv.2501.19199)
 
 In case you employ this code for research purposes, please cite:
 
 ```
-@misc{
-    TODO
+@misc{annunziata2025computationefficientfrontieradvanced,
+      title={On the Computation of the Efficient Frontier in Advanced Portfolio Optimization}, 
+      author={Arturo Annunziata and Matteo Lapucci and Pieluigi Mansueto and Davide Pucci},
+      year={2025},
+      eprint={2501.19199},
+      archivePrefix={arXiv},
+      primaryClass={math.OC},
+      url={https://arxiv.org/abs/2501.19199}, 
 }
 ```
 
